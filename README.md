@@ -1,17 +1,3 @@
----
-title: 23种设计模式详解
-date: 2019-02-28 16:15:27
-copyright: ture
-categories:
-- 设计模式
-tags:
-- 设计模式
-keywords:
-- 23种设计模式教程
-- 六大原则
-top: 10
-
----
 
 ## 设计模式
 
